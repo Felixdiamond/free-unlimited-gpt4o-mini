@@ -19,8 +19,8 @@ Make sure you have Python 3.7 or later installed. You also need to install the n
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Felixdiamond/free-unlimited-gpt4o-mini.git
+    cd free-unlimited-gpt4o-mini
     ```
 
 2. Install the required packages:
@@ -38,6 +38,15 @@ Make sure you have Python 3.7 or later installed. You also need to install the n
     ```
 
 2. The server will start at `http://localhost:8000`. You can interact with it via the `/complete/` endpoint.
+
+### Running through terminal
+
+1. Run the script:
+```bash
+python main.py
+```
+
+2. Follow the prompts from the script
 
 ### Using the API
 
